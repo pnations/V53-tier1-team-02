@@ -35,7 +35,11 @@ your repo access and to practice PR'ing with your team _before_ you start
 coding!
 
 - Noah: [GitHub](https://github.com/mrcordova)
+
+- Zoheb Tahir: [GitHub](https://github.com/ZohebTahir)  
+
 - Bryan Hoyem: [GitHub](https://github.com/bhoyem) / [LinkedIn](https://linkedin.com/in/bryanhoyem)
+
 
   ...
 
