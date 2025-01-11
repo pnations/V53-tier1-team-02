@@ -40,7 +40,7 @@ coding!
 
 - Bryan Hoyem: [GitHub](https://github.com/bhoyem) / [LinkedIn](https://linkedin.com/in/bryanhoyem)
 
-- Philip Nations: [GitHub](https://github.com/pnations)) / [LinkedIn]((https://www.linkedin.com/in/pnations/))
+- Philip Nations: [GitHub](https://github.com/pnations) / [LinkedIn](https://www.linkedin.com/in/pnations/)
 
   ...
 
